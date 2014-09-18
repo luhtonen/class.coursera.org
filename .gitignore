@@ -5,3 +5,5 @@
 .cache
 .classpath
 .project
+lib_managed
+target
