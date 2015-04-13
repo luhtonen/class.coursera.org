@@ -1,4 +1,3 @@
-
 .metadata
 .settings
 *.class
@@ -9,3 +8,7 @@ lib_managed
 target
 .idea
 *.iml
+src_managed
+project/boot
+ 
+*.swp
